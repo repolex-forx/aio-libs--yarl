@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "yarl",
+  "versions": [
+    {
+      "commit": "d0d6a37515189b284583e5b25ae83975eff222b3",
+      "tag": "",
+      "parsed_at": "2026-10-10T16:12:55.709642+00:00"
+    }
+  ]
+}
