@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/yarl/commit/d0d6a37515189b284583e5b25ae83975eff222b3",
       "git:hexsha": "d0d6a37515189b284583e5b25ae83975eff222b3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T16:12:55.708581+00:00"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/yarl/commit/d2e13bf85fb88a86049b21b31d5ba87be38bce7b",
