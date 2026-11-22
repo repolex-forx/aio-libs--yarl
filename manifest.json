@@ -501,7 +501,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/propcache/__init__.py"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/3d05d4c25b9924acf49b35fb04355c37ae708a87/chunk-001.nq.gz",
+      "dep": "dep/3d05d4c25b9924acf49b35fb04355c37ae708a87.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
