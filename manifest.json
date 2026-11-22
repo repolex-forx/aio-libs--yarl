@@ -429,6 +429,78 @@
       ],
       "ast": [
         "aggregate/ast/3d05d4c25b9924acf49b35fb04355c37ae708a87/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/3d05d4c25b9924acf49b35fb04355c37ae708a87.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "multidict",
+          "ecosystem": "PYPI",
+          "version": "7.2.1",
+          "githubOrg": "aio-libs",
+          "githubRepo": "multidict",
+          "githubCommit": "f50870cb46f0146579a1b9d69eeb3f57776eee63",
+          "githubTag": "v7.2.1",
+          "githubUrl": "https://github.com/aio-libs/multidict",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/multidict/_multidict_py.py"
+        },
+        {
+          "packageName": "pydantic-core",
+          "ecosystem": "PYPI",
+          "version": "2.50.5",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "lsp",
+          "raw_name": "pydantic_core",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/pydantic_core/core_schema.py"
+        },
+        {
+          "packageName": "idna",
+          "ecosystem": "PYPI",
+          "version": "3.20.0",
+          "githubOrg": "kjd",
+          "githubRepo": "idna",
+          "githubUrl": "https://github.com/kjd/idna",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/idna/core.py"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/build_meta.py"
+        },
+        {
+          "packageName": "pydantic",
+          "ecosystem": "PYPI",
+          "version": "2.14.4",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubCommit": "1642a816171707dd8c58da6fff8061a59348402c",
+          "githubTag": "v2.14.4",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/pydantic/main.py"
+        },
+        {
+          "packageName": "propcache",
+          "ecosystem": "PYPI",
+          "version": "0.5.4",
+          "githubOrg": "aio-libs",
+          "githubRepo": "propcache",
+          "githubCommit": "cc9882f95c6aadbfe7b88898e3f0230e4a38341a",
+          "githubTag": "v0.5.4",
+          "githubUrl": "https://github.com/aio-libs/propcache",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/propcache/__init__.py"
+        }
       ]
     }
   ],
